@@ -4,6 +4,23 @@ This repository is going to be used as a notebook to log down personal study on 
 
 ---
 
+## Study Plan
+
+- [ ] Business
+
+  - [ ] Credit card issuing
+  - [ ] Merchant acquiring
+  - [ ] Visa transaction flow
+  - [ ] Modern payment network
+
+- [ ] Technical
+  - [ ] Microservice architect
+  - [ ] Openstack
+  - [ ] CICD
+  - [ ] Scalable payment system architecture
+
+---
+
 ## Category
 
 - [Business](#Business)
@@ -24,48 +41,38 @@ This repository is going to be used as a notebook to log down personal study on 
 
 ### Business
 
-- [ ] Credit card issuing
-- [ ] Merchant acquiring
-- [ ] Visa transaction flow
-- [ ] Modern payment network
-
 #### Credit-Card-Issuing
 
-Detail(Todo...)
+- **[Credit card issuing](docs/business/Credit-Card-Issuing.md)**
 
 #### Merchant-Acquiring
 
-Detail(Todo...)
+- **[Merchant acquiring](docs/business/Merchant-Acquiring.md)**
 
 #### Visa-Transaction-Flow
 
-Detail(Todo...)
+- **[Visa transaction flow](docs/business/Visa-Transaction-Flow.md)**
 
 #### Modern-Payment-Network
 
-Detail(Todo...)
+- **[Modern payment network](docs/business/Modern-Payment-Network.md)**
 
 ---
 
 ### Technical
 
-- [ ] Microservice architect
-- [ ] Openstack
-- [ ] CICD
-- [ ] Scalable payment system architecture
-
 #### Microservice-Architect
 
-Detail(Todo...)
+- **[Microservice architect](docs/technical/Microservice-Architect.md)**
 
 #### Openstack
 
-Detail(Todo...)
+- **[Openstack](docs/technical/Openstack.md)**
 
 #### CICD
 
-Detail(Todo...)
+- **[CICD](docs/technical/CICD.md)**
 
 #### Scalable-Payment-System-Architecture
 
-Detail(Todo...)
+- **[Scalable payment system architecture](docs/technical/Scalable-Payment-System-Architecture.md)**
