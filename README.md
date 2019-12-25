@@ -43,11 +43,11 @@ This repository is going to be used as a notebook to log down personal study on 
 
 #### Credit-Card-Issuing
 
-- **[Credit card issuing](docs/business/Credit-Card-Issuing.md)**
+- **[Credit card issuing](/docs/business/Credit-Card-Issuing.md)**
 
 #### Merchant-Acquiring
 
-- **[Merchant acquiring](docs/business/Merchant-Acquiring.md)**
+- **[Merchant acquiring](/docs/business/Merchant-Acquiring.md)**
 
 #### Visa-Transaction-Flow
 
