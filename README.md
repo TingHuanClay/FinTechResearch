@@ -10,7 +10,7 @@ This repository is going to be used as a notebook to log down personal study on 
 
   - [ ] Credit card issuing
   - [ ] Merchant acquiring
-  - [ ] Visa transaction flow
+  - [x] Visa transaction flow
   - [ ] Modern payment network
 
 - [ ] Technical
